@@ -1,0 +1,1323 @@
+{
+  "usableSessionsCount": 16,
+  "retiredSessionsCount": 2,
+  "sessions": [
+    {
+      "id": "session_wNUQmLDsFL",
+      "cookieJar": {
+        "version": "tough-cookie@6.0.1",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": []
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2026-04-23T14:42:45.445Z",
+      "createdAt": "2026-04-23T13:52:45.445Z",
+      "usageCount": 0,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_ESbHDK7GCg",
+      "cookieJar": {
+        "version": "tough-cookie@6.0.1",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": [
+          {
+            "key": "enable-cookie-consent",
+            "value": "false",
+            "expires": "2026-04-23T14:43:18.683Z",
+            "domain": "www.propertyfinder.ae",
+            "path": "/",
+            "secure": true,
+            "hostOnly": true,
+            "creation": "2026-04-23T13:52:55.828Z",
+            "lastAccessed": "2026-04-23T13:53:33.484Z"
+          },
+          {
+            "key": "country-code",
+            "value": "LK",
+            "expires": "2026-04-23T14:43:18.683Z",
+            "domain": "www.propertyfinder.ae",
+            "path": "/",
+            "secure": true,
+            "hostOnly": true,
+            "creation": "2026-04-23T13:52:55.828Z",
+            "lastAccessed": "2026-04-23T13:53:33.484Z"
+          },
+          {
+            "key": "website_ab_tests",
+            "value": "AGENT_REDESIGN_PAGE=variantB,CMS_CACHE_STRATEGY_TEST=on,FARO_BROWSER_LOGS=original,NAV_HEADER_VARIANT_TEST=variantA,PRICE_CHANGE=original,SEARCH_CREATE_ALERT_FLOW=variantA,SEARCH_VIEWED_PROPS=variantA,serpDownPaymentEgp=original,SERP_ENHANCED_FOOTER_TEST=on,SERP_PROPERTY_AGGS_ENDPOINT_TEST=on,SERP_RANKING_FACTORS=on,test136=variantA,TEST_AA=variantA,TEST_ACCOUNT_NO_COUNTRY_POD=variantA,TEST_ACCOUNT_WHATSAPP_CAPTCHA=variantA,TEST_AGENT_INFO_STICKY=original,TEST_AGENT_LEAD_WHATSAPP_CAPTCHA=variantA,TEST_AGENT_WHATSAPP_CAPTCHA=variantA,TEST_AI_SEARCH=variantB,TEST_BANNER_HOMEPAGE=original,TEST_BANNER_PLP=original,TEST_BANNER_SAVED_PROPERTIES=original,TEST_BANNER_SEARCH=original,TEST_BLOCK_SNOWPLOW_TRACKING=on,TEST_DATAGURU_SCOUT_FAB=on,TEST_DELETE_BY_LISTING_ID=variantA,TEST_EMAIL_LEAD_LISTING_ID=on,TEST_EMAIL_LEADV2_CARD=variantA,TEST_HIDE_FB_LOGIN=original,TEST_HOMEPAGE_BANNER=variantA,TEST_HOMEPAGE_REVAMP=variantA,TEST_IAM_CREATE_ALERT_SERP=variantA,TEST_IAM_REGISTER_HOME_PAGE=original,TEST_IAM_REGISTER_SERP=original,TEST_LEAD_LISTING_ID=on,TEST_LEAD_NO_COUNTRY_POD=variantA,TEST_LIMIT_SAVE_SEARCH=variantA,TEST_LISTING_ID=on,TEST_MAP_MIGRATION=variantA,TEST_MF_FHM_LEAD_BANNER=on,TEST_MF_HP_BANNER=variantC,TEST_MF_HP_LEAD_BANNER_EMAIL=on,TEST_MF_PLP_LEAD_FORM_STICKY=variantB,TEST_MFR_CAMPAIGN_BANNER=on,TEST_NEW_EMAIL_LEAD=variantA,TEST_NEW_PROJECT_CARDS=variantA,TEST_NP_IN_NAVIGATION=original,TEST_PERFORMANCE=prefetchPLP,TEST_PLP_AGENT_REVIEW=variantA,TEST_PLP_FLOOR_PLANS_ENABLED_LATEST=floor_plans_enabled,TEST_PLP_MORE_PROPERTIES=variantA,TEST_PLP_RENT_VS_BUY=variantA,TEST_PLP_REVAMP=variantA,TEST_PLP_REVIEWS=on,TEST_PLP_S3=original,TEST_PLP_WHATSAPP_CAPTCHA=variantA,TEST_PRIMARY_AGENT=on,TEST_PRIMARY_COLLECTIONS=off,TEST_PRIMARY_DEV_LIST_DEVELOPER_PROJECTS=on,TEST_PRIMARY_LIQUIDITY=original,TEST_PRIMARY_PAYMENT_PLAN_MODAL=off,TEST_PRIMARY_PDP_ROUTE=off,TEST_PRIMARY_REVIEWS=on,TEST_PRIMARY_SCOUT_FAB=on,TEST_PRIMARY_SPONSOR_ADS=on,TEST_PRIMARY_UNIT_TYPE=on,TEST_QF_BACKWARD=original,TEST_quickfitler=variantG,TEST_REFINANCE_CALC_POSITION=2,TEST_REFINANCE_CAMPAIGN=on,TEST_SAVED_PROPERTY_IAM=variantA,TEST_SEARCH_HEADERS_COUNTRY_CODE=variantA,TEST_SEARCH_KILL_BILL_ROLLOUT=v_ae_ce_le_pe,TEST_SEARCH_RANKING=double_exclusive_boost_a,TEST_SEARCH_SPA=variantA,TEST_SERP_CARAT=variantB,TEST_SERP_REVAMP=variantA,TEST_SERP_REVIEWS=on,TEST_SERP_SUPERAGENT=original,TEST_SERP_WHATSAPP_CAPTCHA=variantA,TEST_TRAVEL_TIME=variantB,TEST_URGENCY_TRIGGER=variantD,TEST_USER_PAGES=variantA,TEST_VALKYRIE_CAROUSAL=variantE,TEST_WHATSAPP_CAPTCHA=variantA,TEST_WHATSAPP_LOGIN=original,TOGGLE_BOTTOM_NAVIGATION_ENABLED=off,TOGGLE_HEADER_COMMUNITIES_ENTRYPOINT=off,TOGGLE_HEADER_INSIGHTSHUB_ENTRYPOINT=original,TOGGLE_MF_FHM=on,TOGGLE_MF_PMC=on,TOGGLE_PLP_MF_WIDGET=on,TEST_ASHISH=1",
+            "expires": "2026-04-23T15:52:46.958Z",
+            "domain": "www.propertyfinder.ae",
+            "path": "/",
+            "hostOnly": true,
+            "creation": "2026-04-23T13:52:55.828Z",
+            "lastAccessed": "2026-04-23T13:53:33.484Z"
+          },
+          {
+            "key": "flagship_user_id",
+            "value": "ieimdrnuj1bmqeb4el16ao",
+            "expires": "2026-05-23T13:52:46.958Z",
+            "domain": "www.propertyfinder.ae",
+            "path": "/",
+            "hostOnly": true,
+            "creation": "2026-04-23T13:52:55.828Z",
+            "lastAccessed": "2026-04-23T13:53:33.484Z"
+          },
+          {
+            "key": "anonymous_user_id",
+            "value": "ieimdrnuj1bmqeb4el16ao",
+            "expires": "2027-05-28T13:52:46.959Z",
+            "domain": "www.propertyfinder.ae",
+            "path": "/",
+            "hostOnly": true,
+            "creation": "2026-04-23T13:52:55.828Z",
+            "lastAccessed": "2026-04-23T13:53:33.484Z"
+          },
+          {
+            "key": "ai-search-status",
+            "value": "disabled",
+            "expires": "2026-04-30T13:52:48.524Z",
+            "domain": "www.propertyfinder.ae",
+            "path": "/",
+            "hostOnly": true,
+            "creation": "2026-04-23T13:52:55.828Z",
+            "lastAccessed": "2026-04-23T13:53:33.484Z"
+          },
+          {
+            "key": "_sp_ses.b9c1",
+            "value": "*",
+            "expires": "2026-04-23T14:23:30.000Z",
+            "domain": "propertyfinder.ae",
+            "path": "/",
+            "secure": true,
+            "hostOnly": false,
+            "creation": "2026-04-23T13:52:55.828Z",
+            "lastAccessed": "2026-04-23T13:53:33.484Z"
+          },
+          {
+            "key": "sp",
+            "value": "5ce136f5-b051-4660-9744-0595a69af565",
+            "expires": "2027-04-23T13:53:32.347Z",
+            "domain": "www.propertyfinder.ae",
+            "path": "/",
+            "secure": true,
+            "httpOnly": true,
+            "hostOnly": true,
+            "creation": "2026-04-23T13:52:55.828Z",
+            "lastAccessed": "2026-04-23T13:53:33.484Z"
+          },
+          {
+            "key": "g_state",
+            "value": "{\"i_l\":0,\"i_ll\":1776952409181,\"i_b\":\"X9tDmmTgAqs2XWqz0nYqqJYbwElAdXvBhaR9gw2auuo\",\"i_e\":{\"enable_itp_optimization\":0},\"i_et\":1776952369878}",
+            "expires": "2026-10-20T13:53:29.000Z",
+            "domain": "www.propertyfinder.ae",
+            "path": "/",
+            "hostOnly": true,
+            "creation": "2026-04-23T13:52:55.828Z",
+            "lastAccessed": "2026-04-23T13:53:33.488Z"
+          },
+          {
+            "key": "cookie_for_measurement_id",
+            "value": "G-WC7F61HJCT",
+            "expires": "2026-04-23T14:42:55.827Z",
+            "domain": "propertyfinder.ae",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2026-04-23T13:52:55.828Z",
+            "lastAccessed": "2026-04-23T13:53:33.484Z"
+          },
+          {
+            "key": "_ga",
+            "value": "GA1.1.2022579962.1776952371",
+            "expires": "2027-05-28T13:53:30.742Z",
+            "domain": "propertyfinder.ae",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2026-04-23T13:52:55.828Z",
+            "lastAccessed": "2026-04-23T13:53:33.484Z"
+          },
+          {
+            "key": "_cq_duid",
+            "value": "1.1776952370.02mrhP6LcXEKYJaD",
+            "expires": "2026-07-23T19:53:29.000Z",
+            "domain": "propertyfinder.ae",
+            "path": "/",
+            "secure": true,
+            "hostOnly": false,
+            "creation": "2026-04-23T13:52:55.828Z",
+            "lastAccessed": "2026-04-23T13:53:33.484Z"
+          },
+          {
+            "key": "_cq_suid",
+            "value": "1.1776952370.MKxBIreE2ovEpAIS",
+            "expires": "2026-04-23T14:43:33.483Z",
+            "domain": "propertyfinder.ae",
+            "path": "/",
+            "secure": true,
+            "hostOnly": false,
+            "creation": "2026-04-23T13:52:55.828Z",
+            "lastAccessed": "2026-04-23T13:53:33.484Z"
+          },
+          {
+            "key": "_cq_session",
+            "value": "1.1776952370832.M8BU8I3SM02fPNgN.1776952409438",
+            "expires": "2027-05-28T13:53:29.439Z",
+            "domain": "propertyfinder.ae",
+            "path": "/",
+            "secure": true,
+            "hostOnly": false,
+            "creation": "2026-04-23T13:52:55.828Z",
+            "lastAccessed": "2026-04-23T13:53:33.488Z"
+          },
+          {
+            "key": "ab.storage.deviceId.cbd8e26c-0129-41bb-a086-d0eadb922300",
+            "value": "%7B%22g%22%3A%22412f9784-153a-014b-2da1-1d122028edd0%22%2C%22c%22%3A1776952371004%2C%22l%22%3A1776952371004%7D",
+            "expires": "2027-05-28T13:52:51.000Z",
+            "domain": "propertyfinder.ae",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2026-04-23T13:52:55.828Z",
+            "lastAccessed": "2026-04-23T13:53:33.484Z"
+          },
+          {
+            "key": "__rtbh.uid",
+            "value": "%7B%22eventType%22%3A%22uid%22%2C%22id%22%3A%22019dba9d60a90023093d3f56600c00065005b05d00590%22%2C%22expiryDate%22%3A%222027-04-23T13%3A53%3A30.613Z%22%7D",
+            "expires": "2027-04-23T13:53:30.000Z",
+            "domain": "www.propertyfinder.ae",
+            "path": "/",
+            "secure": true,
+            "hostOnly": true,
+            "creation": "2026-04-23T13:52:55.828Z",
+            "lastAccessed": "2026-04-23T13:53:33.488Z"
+          },
+          {
+            "key": "__rtbh.lid",
+            "value": "%7B%22eventType%22%3A%22lid%22%2C%22id%22%3A%22JB1mTnU4PvxS3xA7fmdF%22%2C%22expiryDate%22%3A%222027-04-23T13%3A53%3A30.614Z%22%7D",
+            "expires": "2027-04-23T13:53:30.000Z",
+            "domain": "www.propertyfinder.ae",
+            "path": "/",
+            "secure": true,
+            "hostOnly": true,
+            "creation": "2026-04-23T13:52:55.828Z",
+            "lastAccessed": "2026-04-23T13:53:33.488Z"
+          },
+          {
+            "key": "_gcl_au",
+            "value": "1.1.994345408.1776952372",
+            "expires": "2026-07-22T13:52:52.000Z",
+            "domain": "propertyfinder.ae",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2026-04-23T13:52:55.828Z",
+            "lastAccessed": "2026-04-23T13:53:33.484Z"
+          },
+          {
+            "key": "__gads",
+            "value": "ID=23c0b5710f521405:T=1776952371:RT=1776952371:S=ALNI_MYCGsYFlwnqYDDkrOFTJdiAU_hgFA",
+            "expires": "2027-05-18T13:52:51.000Z",
+            "domain": "propertyfinder.ae",
+            "path": "/",
+            "secure": true,
+            "hostOnly": false,
+            "creation": "2026-04-23T13:52:55.828Z",
+            "lastAccessed": "2026-04-23T13:53:33.484Z"
+          },
+          {
+            "key": "__gpi",
+            "value": "UID=000013e19e9385e3:T=1776952371:RT=1776952371:S=ALNI_MbFX-JEcm2brbePw88kDjxgAYZrwA",
+            "expires": "2027-05-18T13:52:51.000Z",
+            "domain": "propertyfinder.ae",
+            "path": "/",
+            "secure": true,
+            "hostOnly": false,
+            "creation": "2026-04-23T13:52:55.828Z",
+            "lastAccessed": "2026-04-23T13:53:33.484Z"
+          },
+          {
+            "key": "__eoi",
+            "value": "ID=b9afa98e993eb349:T=1776952371:RT=1776952371:S=AA-AfjZOI0r1YuW_iVuX3Wj3wmw3",
+            "expires": "2026-10-20T13:52:51.000Z",
+            "domain": "propertyfinder.ae",
+            "path": "/",
+            "secure": true,
+            "hostOnly": false,
+            "creation": "2026-04-23T13:52:55.828Z",
+            "lastAccessed": "2026-04-23T13:53:33.484Z"
+          },
+          {
+            "key": "criteo_user_id",
+            "value": "YgsaHV95SFk0Y3RVSThvMm9FalNHSk91V3hGaUVoeWNXOE1tWjFwbFBNNWtqekRxemclMkJYMEMyV3clMkYzSHc5JTJGcVk1Vm1y",
+            "expires": "2027-04-23T13:52:51.000Z",
+            "domain": "propertyfinder.ae",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2026-04-23T13:52:55.828Z",
+            "lastAccessed": "2026-04-23T13:53:33.484Z"
+          },
+          {
+            "key": "_clck",
+            "value": "l75iq9%5E2%5Eg5g%5E0%5E2304",
+            "expires": "2027-04-23T13:52:51.000Z",
+            "domain": "propertyfinder.ae",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2026-04-23T13:52:55.828Z",
+            "lastAccessed": "2026-04-23T13:53:33.484Z"
+          },
+          {
+            "key": "_ga_WC7F61HJCT",
+            "value": "GS2.1.s1776952370$o1$g1$t1776952410$j20$l0$h2118944177",
+            "expires": "2027-05-28T13:53:30.835Z",
+            "domain": "propertyfinder.ae",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2026-04-23T13:52:55.829Z",
+            "lastAccessed": "2026-04-23T13:53:33.488Z"
+          },
+          {
+            "key": "ab.storage.sessionId.cbd8e26c-0129-41bb-a086-d0eadb922300",
+            "value": "%7B%22g%22%3A%2223fe267c-6f43-7da9-067e-58c805b7eb25%22%2C%22e%22%3A1776954210846%2C%22c%22%3A1776952371000%2C%22l%22%3A1776952410846%7D",
+            "expires": "2027-05-28T13:53:30.000Z",
+            "domain": "propertyfinder.ae",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2026-04-23T13:52:55.829Z",
+            "lastAccessed": "2026-04-23T13:53:33.488Z"
+          },
+          {
+            "key": "utag_main",
+            "value": "v_id:019dba9d60a90023093d3f56600c00065005b05d00590$_sn:1$_se:21$_ss:0$_st:1776954210811$ses_id:1776952369322%3Bexp-session$_pn:4%3Bexp-session$dc_visit:1$dc_event:5%3Bexp-session$dc_region:eu-west-1%3Bexp-session$user_phone_number_formatted_for_fb:",
+            "expires": "2027-04-23T13:53:30.000Z",
+            "domain": "propertyfinder.ae",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2026-04-23T13:52:55.829Z",
+            "lastAccessed": "2026-04-23T13:53:33.488Z"
+          },
+          {
+            "key": "_sp_id.b9c1",
+            "value": "87ef44eb-20b8-417e-9bdb-0823d4ceb319.1776952369.1.1776952411..90046c93-f983-4e20-ade1-454f73ccc28d..8c7dec89-223c-40eb-abc2-943d57ddc3f4.1776952369235.43",
+            "expires": "2027-05-28T13:53:30.851Z",
+            "domain": "propertyfinder.ae",
+            "path": "/",
+            "secure": true,
+            "hostOnly": false,
+            "creation": "2026-04-23T13:52:55.829Z",
+            "lastAccessed": "2026-04-23T13:53:33.488Z"
+          },
+          {
+            "key": "_fbp",
+            "value": "fb.1.1776952373175.38042654114764042",
+            "expires": "2026-07-22T13:53:31.000Z",
+            "domain": "propertyfinder.ae",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2026-04-23T13:52:55.829Z",
+            "lastAccessed": "2026-04-23T13:53:33.485Z"
+          },
+          {
+            "key": "_clsk",
+            "value": "5ovdri%5E1776952413345%5E4%5E1%5Ej.clarity.ms%2Fcollect",
+            "expires": "2026-04-24T13:53:33.000Z",
+            "domain": "propertyfinder.ae",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2026-04-23T13:52:55.829Z",
+            "lastAccessed": "2026-04-23T13:53:33.489Z"
+          },
+          {
+            "key": "aws-waf-token",
+            "value": "d96e6292-7fad-4b40-a9e0-e10659ce747e:HgoAvq9g9CZRAAAA:H0AsFRKwb20RUzpI5TV7da+KMndD5fId+HBfXmH/w8E/GKUwS/v7d78W/hKlGDA95BkGQR/csoY11lMZYpXxae8x2LdVsnINLTU0n5kdNmpGMQHY6KTnNMAm6FPiYEXbUYri0aqq8N2qPTprNzl2ragLcqET/l3u0XAIKf0fa9OPnXw771zUMoDxw6DiX56mn9ewTCX7+Hx79TA6o/L4QHCbNoBWCdZmzUnOL5uuZAu9WOF3rBbzCPCbFQ==",
+            "expires": "2026-04-27T13:53:32.000Z",
+            "domain": "www.propertyfinder.ae",
+            "path": "/",
+            "secure": true,
+            "hostOnly": false,
+            "creation": "2026-04-23T13:52:55.829Z",
+            "lastAccessed": "2026-04-23T13:53:33.488Z"
+          },
+          {
+            "key": "cto_bundle",
+            "value": "l1_2r19xeVMxRiUyRlRyNjJxREgzSSUyQnE0eHh0b0RTNExZbnBvUkZacjlOOUxYRkVjdjJTSnhMb3FOS1RQM3Vud2JkQUlKQkd6aE5mTHNKOUhRenM1ckhVMDA5RmVmeVgxcFpScUslMkZzclpNUk9lR29tbnpqUVdFVUZTZ2dJcWF1M2xPRUpwc1B4RGlYS3B5JTJGeWJ1a3QlMkZYTFdtczJnJTNEJTNE",
+            "expires": "2027-05-23T23:53:15.000Z",
+            "domain": "propertyfinder.ae",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2026-04-23T13:52:55.829Z",
+            "lastAccessed": "2026-04-23T13:53:33.487Z"
+          },
+          {
+            "key": "anonymous_session_id",
+            "value": "mobjk52n5fddimsh",
+            "expires": "2026-04-23T14:42:56.514Z",
+            "domain": "bayut.com",
+            "path": "/",
+            "secure": true,
+            "hostOnly": false,
+            "creation": "2026-04-23T13:52:56.515Z",
+            "lastAccessed": "2026-04-23T13:53:32.511Z"
+          },
+          {
+            "key": "device_id",
+            "value": "mobjk52nwe7qs5z7",
+            "expires": "2027-04-23T13:52:46.955Z",
+            "domain": "bayut.com",
+            "path": "/",
+            "secure": true,
+            "hostOnly": false,
+            "creation": "2026-04-23T13:52:56.515Z",
+            "lastAccessed": "2026-04-23T13:53:32.511Z"
+          },
+          {
+            "key": "thumb_uid",
+            "value": "8c5307bb073ab8e51b83aacd4aa5c4a3",
+            "expires": "2026-05-23T13:53:31.659Z",
+            "domain": "bayut.com",
+            "path": "/",
+            "secure": true,
+            "hostOnly": false,
+            "creation": "2026-04-23T13:52:56.516Z",
+            "lastAccessed": "2026-04-23T13:53:32.512Z"
+          },
+          {
+            "key": "_gcl_au",
+            "value": "1.1.1257205445.1776952372",
+            "expires": "2026-07-22T13:52:52.000Z",
+            "domain": "bayut.com",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2026-04-23T13:52:56.516Z",
+            "lastAccessed": "2026-04-23T13:53:32.512Z"
+          },
+          {
+            "key": "_ga",
+            "value": "GA1.1.2055484945.1776952373",
+            "expires": "2027-05-28T13:53:31.182Z",
+            "domain": "bayut.com",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2026-04-23T13:52:56.516Z",
+            "lastAccessed": "2026-04-23T13:53:32.513Z"
+          },
+          {
+            "key": "_twpid",
+            "value": "tw.1776952373025.450549351870028859",
+            "expires": "2027-05-18T13:52:53.032Z",
+            "domain": "bayut.com",
+            "path": "/",
+            "secure": true,
+            "hostOnly": false,
+            "creation": "2026-04-23T13:52:56.517Z",
+            "lastAccessed": "2026-04-23T13:53:32.513Z"
+          },
+          {
+            "key": "__rtbh.uid",
+            "value": "%7B%22eventType%22%3A%22uid%22%2C%22id%22%3A%222055484945.1776952373%22%2C%22expiryDate%22%3A%222027-04-23T13%3A53%3A31.508Z%22%7D",
+            "expires": "2027-04-23T13:53:31.000Z",
+            "domain": "www.bayut.com",
+            "path": "/",
+            "secure": true,
+            "hostOnly": true,
+            "creation": "2026-04-23T13:52:56.517Z",
+            "lastAccessed": "2026-04-23T13:53:32.516Z"
+          },
+          {
+            "key": "__gads",
+            "value": "ID=a7393225250f56a4:T=1776952372:RT=1776952372:S=ALNI_MaB-2blFlrD95HeE_EK9_5pYC6gIA",
+            "expires": "2027-05-18T13:52:52.000Z",
+            "domain": "bayut.com",
+            "path": "/",
+            "secure": true,
+            "hostOnly": false,
+            "creation": "2026-04-23T13:52:56.517Z",
+            "lastAccessed": "2026-04-23T13:53:32.513Z"
+          },
+          {
+            "key": "__gpi",
+            "value": "UID=000013e1a3696067:T=1776952372:RT=1776952372:S=ALNI_Map5nK9PY2GfKg1G_JmdDKYQUKJwg",
+            "expires": "2027-05-18T13:52:52.000Z",
+            "domain": "bayut.com",
+            "path": "/",
+            "secure": true,
+            "hostOnly": false,
+            "creation": "2026-04-23T13:52:56.517Z",
+            "lastAccessed": "2026-04-23T13:53:32.513Z"
+          },
+          {
+            "key": "__eoi",
+            "value": "ID=ac399ad16abc935a:T=1776952372:RT=1776952372:S=AA-Afjb7YbtdqVshpYcvQJzl7lWj",
+            "expires": "2026-10-20T13:52:52.000Z",
+            "domain": "bayut.com",
+            "path": "/",
+            "secure": true,
+            "hostOnly": false,
+            "creation": "2026-04-23T13:52:56.517Z",
+            "lastAccessed": "2026-04-23T13:53:32.513Z"
+          },
+          {
+            "key": "referrer",
+            "value": "https%3A%2F%2Fwww.bayut.com%2Fs%2F2-bedroom-apartments-rent-yearly-aed-120000-dubai-marina%2F",
+            "expires": "2026-04-23T14:23:31.648Z",
+            "domain": "bayut.com",
+            "path": "/",
+            "secure": true,
+            "hostOnly": false,
+            "creation": "2026-04-23T13:52:56.517Z",
+            "lastAccessed": "2026-04-23T13:53:32.516Z"
+          },
+          {
+            "key": "original_referrer",
+            "value": "https%3A%2F%2Fwww.bayut.com%2Fs%2F2-bedroom-apartments-rent-yearly-aed-120000-dubai-marina%2F",
+            "expires": "2026-04-23T14:23:31.648Z",
+            "domain": "bayut.com",
+            "path": "/",
+            "secure": true,
+            "hostOnly": false,
+            "creation": "2026-04-23T13:52:56.517Z",
+            "lastAccessed": "2026-04-23T13:53:32.516Z"
+          },
+          {
+            "key": "_ga_YTDB8TQ5Q9",
+            "value": "GS2.1.s1776952372$o1$g1$t1776952411$j21$l0$h0",
+            "expires": "2027-05-28T13:53:31.341Z",
+            "domain": "bayut.com",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2026-04-23T13:52:56.517Z",
+            "lastAccessed": "2026-04-23T13:53:32.516Z"
+          },
+          {
+            "key": "_rdt_uuid",
+            "value": "1776952372982.5916bdd3-132d-47d7-afe6-f7c5acab2ba4",
+            "expires": "2026-07-22T13:53:30.000Z",
+            "domain": "bayut.com",
+            "path": "/",
+            "secure": true,
+            "hostOnly": false,
+            "creation": "2026-04-23T13:52:56.517Z",
+            "lastAccessed": "2026-04-23T13:53:32.516Z"
+          },
+          {
+            "key": "__rtbh.lid",
+            "value": "%7B%22eventType%22%3A%22lid%22%2C%22id%22%3A%22yaNmlMYSB88KYZgAYktW%22%2C%22expiryDate%22%3A%222027-04-23T13%3A53%3A31.509Z%22%7D",
+            "expires": "2027-04-23T13:53:31.000Z",
+            "domain": "www.bayut.com",
+            "path": "/",
+            "secure": true,
+            "hostOnly": true,
+            "creation": "2026-04-23T13:52:56.517Z",
+            "lastAccessed": "2026-04-23T13:53:32.516Z"
+          },
+          {
+            "key": "_ga_JMZ5C490RT",
+            "value": "GS2.1.s1776952375$o1$g0$t1776952411$j24$l0$h0",
+            "expires": "2027-05-28T13:53:31.195Z",
+            "domain": "bayut.com",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2026-04-23T13:52:56.517Z",
+            "lastAccessed": "2026-04-23T13:53:32.516Z"
+          },
+          {
+            "key": "_uetsid",
+            "value": "bac4d6c03f1b11f1b1ab511a8e0d8214",
+            "expires": "2026-04-24T13:53:31.000Z",
+            "domain": "bayut.com",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2026-04-23T13:52:56.517Z",
+            "lastAccessed": "2026-04-23T13:53:32.516Z"
+          },
+          {
+            "key": "_uetvid",
+            "value": "bac4fc003f1b11f1ba3c23b874e4e2e3",
+            "expires": "2027-05-18T13:53:31.000Z",
+            "domain": "bayut.com",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2026-04-23T13:52:56.517Z",
+            "lastAccessed": "2026-04-23T13:53:32.516Z"
+          },
+          {
+            "key": "_tt_enable_cookie",
+            "value": "1",
+            "expires": "2027-05-18T13:53:31.000Z",
+            "domain": "bayut.com",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2026-04-23T13:52:56.518Z",
+            "lastAccessed": "2026-04-23T13:53:32.513Z"
+          },
+          {
+            "key": "_ttp",
+            "value": "01KPX9TYBVV2GPQDW3SCFENWAA_.tt.1",
+            "expires": "2027-05-18T13:53:31.000Z",
+            "domain": "bayut.com",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2026-04-23T13:52:56.518Z",
+            "lastAccessed": "2026-04-23T13:53:32.513Z"
+          },
+          {
+            "key": "FPID",
+            "value": "FPID2.2.qRQbroQ%2BnLqwzB5F1e3yiWzaJBBSDU5Kx5FYUXMIY50%3D.1776952373",
+            "expires": "2027-05-28T13:53:32.034Z",
+            "domain": "bayut.com",
+            "path": "/",
+            "secure": true,
+            "httpOnly": true,
+            "hostOnly": false,
+            "creation": "2026-04-23T13:52:56.518Z",
+            "lastAccessed": "2026-04-23T13:53:32.513Z"
+          },
+          {
+            "key": "FPLC",
+            "value": "f8C2Uajkh37jlIV0CEk%2F5h8%2FY4tnd5ExTZqFW2JtJVdOhUcFtmPnaQVWD%2BlqfAV3Y%2Bh%2BTlHavtlgQHl40Z1mxPxXBT%2FpNvw%2Bk27k6146%2BnQRRiDLuUK1SHU%2FzqLQuw%3D%3D",
+            "expires": "2026-04-24T09:52:55.737Z",
+            "domain": "bayut.com",
+            "path": "/",
+            "secure": true,
+            "hostOnly": false,
+            "creation": "2026-04-23T13:52:56.518Z",
+            "lastAccessed": "2026-04-23T13:53:32.513Z"
+          },
+          {
+            "key": "cto_bundle",
+            "value": "vQ79019xdXlMZkFoWWFDTHB0WG1XS0hqQnBWSHZabjVXaFNkZzFzJTJGU0VYR1UwVWR2NiUyQk1IWHBjQmx0U3RjMFhoYiUyQkJnJTJCYlZRN1BITFNmb3A1Y2k5QkpFTyUyQnBCY2RCazZkQ0pzODN6MldJVCUyQmYlMkJWVFdlMUZDaWlsYWNlbHJyNjlrQklIV0gxSkZueWE0cTF4U1R6JTJCcFZPcFVRJTNEJTNE",
+            "expires": "2027-05-23T23:53:31.000Z",
+            "domain": "bayut.com",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2026-04-23T13:52:56.518Z",
+            "lastAccessed": "2026-04-23T13:53:32.516Z"
+          },
+          {
+            "key": "_clck",
+            "value": "xlur1m%5E2%5Eg5g%5E0%5E2304",
+            "expires": "2027-04-23T13:52:55.000Z",
+            "domain": "bayut.com",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2026-04-23T13:52:56.518Z",
+            "lastAccessed": "2026-04-23T13:53:32.513Z"
+          },
+          {
+            "key": "ttcsid",
+            "value": "1776952375685::128bRdULWvCmes-8Yk5T.1.1776952412061.0::1.31390.36141::0.0.0.0::0.0.0",
+            "expires": "2027-05-18T13:53:32.000Z",
+            "domain": "bayut.com",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2026-04-23T13:52:56.518Z",
+            "lastAccessed": "2026-04-23T13:53:32.516Z"
+          },
+          {
+            "key": "ttcsid_CFLOJG3C77U9H3ESD14G",
+            "value": "1776952375683::8twqyO43-S1zO8K7ZhVo.1.1776952412061.1",
+            "expires": "2027-05-18T13:53:32.000Z",
+            "domain": "bayut.com",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2026-04-23T13:52:56.518Z",
+            "lastAccessed": "2026-04-23T13:53:32.516Z"
+          },
+          {
+            "key": "abTests",
+            "value": "TruBrokerStoriesCarouselTest%255Bv%255D%3Doriginal%26TruBrokerStoriesCarouselTest%255Br%255D%3D1%26SellerLeadsForm%255Bv%255D%3Ddetailed%26SellerLeadsForm%255Br%255D%3D1%26BIScoreAdsIndexTest%255Bv%255D%3Doriginal%26BIScoreAdsIndexTest%255Br%255D%3D1%26WhatsAppProjectLeadIntentQuestionsTest%255Bv%255D%3Dtimeline%26WhatsAppProjectLeadIntentQuestionsTest%255Br%255D%3D1%26NaturalLanguageSearchTest%255Bv%255D%3Doriginal%26NaturalLanguageSearchTest%255Br%255D%3D1%26NumberOfTransactionsDTTest%255Bv%255D%3Dtransactions10%26NumberOfTransactionsDTTest%255Br%255D%3D1",
+            "expires": "2026-05-23T13:53:31.659Z",
+            "domain": "bayut.com",
+            "path": "/",
+            "secure": true,
+            "hostOnly": false,
+            "creation": "2026-04-23T13:52:56.518Z",
+            "lastAccessed": "2026-04-23T13:53:32.516Z"
+          },
+          {
+            "key": "incap_ses_939_2413658",
+            "value": "HkBado9LgHVtExy0uf8HDTwk6mkAAAAAB/UnUTY+fBisnlEcVx4tpQ==",
+            "expires": "2026-04-23T14:43:01.695Z",
+            "domain": "dubizzle.com",
+            "path": "/",
+            "secure": true,
+            "hostOnly": false,
+            "creation": "2026-04-23T13:53:01.701Z",
+            "lastAccessed": "2026-04-23T13:53:12.502Z"
+          },
+          {
+            "key": "nlbi_2413658_2147483392",
+            "value": "BdjxMkI3+2QEvmQueguELgAAAACaTMgPJc3UtLCrcFh4ZV9C",
+            "expires": "2026-04-23T14:43:01.695Z",
+            "domain": "dubizzle.com",
+            "path": "/",
+            "secure": true,
+            "httpOnly": true,
+            "hostOnly": false,
+            "creation": "2026-04-23T13:53:01.701Z",
+            "lastAccessed": "2026-04-23T13:53:12.502Z"
+          },
+          {
+            "key": "_scid",
+            "value": "9kQuSQUqhMJwfT3xyYrdQ-lZ6s7M9WW8",
+            "expires": "2027-05-23T13:53:05.000Z",
+            "domain": "propertyfinder.ae",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2026-04-23T13:53:07.757Z",
+            "lastAccessed": "2026-04-23T13:53:33.487Z"
+          },
+          {
+            "key": "_scid_r",
+            "value": "8MQuSQUqhMJwfT3xyYrdQ-lZ6s7M9WW8hHLqgw",
+            "expires": "2027-05-23T13:53:30.000Z",
+            "domain": "propertyfinder.ae",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2026-04-23T13:53:07.757Z",
+            "lastAccessed": "2026-04-23T13:53:33.488Z"
+          },
+          {
+            "key": "_clsk",
+            "value": "cjh1rm%5E1776952408205%5E2%5E1%5Ej.clarity.ms%2Fcollect",
+            "expires": "2026-04-24T13:53:28.000Z",
+            "domain": "bayut.com",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2026-04-23T13:53:11.821Z",
+            "lastAccessed": "2026-04-23T13:53:32.515Z"
+          },
+          {
+            "key": "moe_uuid",
+            "value": "63b535a1-a504-4f85-bb69-12e42f773da8",
+            "expires": "2027-05-28T13:53:32.465Z",
+            "domain": "bayut.com",
+            "path": "/",
+            "secure": true,
+            "hostOnly": false,
+            "creation": "2026-04-23T13:53:11.821Z",
+            "lastAccessed": "2026-04-23T13:53:32.514Z"
+          },
+          {
+            "key": "_scid",
+            "value": "E-AOWEl-9sHKyO-GZ1f9H-_1yt0ASe-f",
+            "expires": "2027-05-23T13:53:07.000Z",
+            "domain": "bayut.com",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2026-04-23T13:53:11.822Z",
+            "lastAccessed": "2026-04-23T13:53:32.514Z"
+          },
+          {
+            "key": "_scid_r",
+            "value": "LWAOWEl-9sHKyO-GZ1f9H-_1yt0ASe-fIk8KXw",
+            "expires": "2027-05-23T13:53:31.000Z",
+            "domain": "bayut.com",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2026-04-23T13:53:11.822Z",
+            "lastAccessed": "2026-04-23T13:53:32.516Z"
+          },
+          {
+            "key": "_fbp",
+            "value": "fb.1.1776952387704.923854642556977786",
+            "expires": "2026-07-22T13:53:31.000Z",
+            "domain": "bayut.com",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2026-04-23T13:53:11.823Z",
+            "lastAccessed": "2026-04-23T13:53:32.515Z"
+          },
+          {
+            "key": "_sctr",
+            "value": "1%7C1776902400000",
+            "expires": "2027-05-23T13:53:07.000Z",
+            "domain": "propertyfinder.ae",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2026-04-23T13:53:18.688Z",
+            "lastAccessed": "2026-04-23T13:53:33.487Z"
+          },
+          {
+            "key": "_sctr",
+            "value": "1%7C1776902400000",
+            "expires": "2027-05-23T13:53:26.000Z",
+            "domain": "bayut.com",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2026-04-23T13:53:27.869Z",
+            "lastAccessed": "2026-04-23T13:53:32.515Z"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2026-04-23T14:42:45.449Z",
+      "createdAt": "2026-04-23T13:52:45.449Z",
+      "usageCount": 19,
+      "maxUsageCount": 50,
+      "errorScore": 26
+    },
+    {
+      "id": "session_r87cbOoAM7",
+      "cookieJar": {
+        "version": "tough-cookie@6.0.1",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": []
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2026-04-23T14:42:45.456Z",
+      "createdAt": "2026-04-23T13:52:45.456Z",
+      "usageCount": 0,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_2URGrfJm0r",
+      "cookieJar": {
+        "version": "tough-cookie@6.0.1",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": []
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2026-04-23T14:43:00.746Z",
+      "createdAt": "2026-04-23T13:53:00.746Z",
+      "usageCount": 0,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_e14zKrOAqN",
+      "cookieJar": {
+        "version": "tough-cookie@6.0.1",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": []
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2026-04-23T14:43:00.748Z",
+      "createdAt": "2026-04-23T13:53:00.748Z",
+      "usageCount": 0,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_BzjlaLRAGB",
+      "cookieJar": {
+        "version": "tough-cookie@6.0.1",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": []
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2026-04-23T14:43:02.255Z",
+      "createdAt": "2026-04-23T13:53:02.255Z",
+      "usageCount": 0,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_SYw2aRTMxK",
+      "cookieJar": {
+        "version": "tough-cookie@6.0.1",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": []
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2026-04-23T14:43:11.552Z",
+      "createdAt": "2026-04-23T13:53:11.552Z",
+      "usageCount": 0,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_7uD86MF2mv",
+      "cookieJar": {
+        "version": "tough-cookie@6.0.1",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": []
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2026-04-23T14:43:11.555Z",
+      "createdAt": "2026-04-23T13:53:11.554Z",
+      "usageCount": 0,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_3kcpdVIuZg",
+      "cookieJar": {
+        "version": "tough-cookie@6.0.1",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": []
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2026-04-23T14:43:13.064Z",
+      "createdAt": "2026-04-23T13:53:13.064Z",
+      "usageCount": 0,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_aeS01Sq04u",
+      "cookieJar": {
+        "version": "tough-cookie@6.0.1",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": []
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2026-04-23T14:43:15.592Z",
+      "createdAt": "2026-04-23T13:53:15.592Z",
+      "usageCount": 0,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_2Z6FZby1vi",
+      "cookieJar": {
+        "version": "tough-cookie@6.0.1",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": []
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2026-04-23T14:43:22.851Z",
+      "createdAt": "2026-04-23T13:53:22.851Z",
+      "usageCount": 0,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_scfZAQMxeV",
+      "cookieJar": {
+        "version": "tough-cookie@6.0.1",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": []
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2026-04-23T14:43:23.044Z",
+      "createdAt": "2026-04-23T13:53:23.044Z",
+      "usageCount": 0,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_YKi2cBkpox",
+      "cookieJar": {
+        "version": "tough-cookie@6.0.1",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": []
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2026-04-23T14:43:26.912Z",
+      "createdAt": "2026-04-23T13:53:26.912Z",
+      "usageCount": 0,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_GxfezzhcpE",
+      "cookieJar": {
+        "version": "tough-cookie@6.0.1",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": []
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2026-04-23T14:43:26.971Z",
+      "createdAt": "2026-04-23T13:53:26.971Z",
+      "usageCount": 0,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_ADLvVcmh33",
+      "cookieJar": {
+        "version": "tough-cookie@6.0.1",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": []
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2026-04-23T14:43:33.775Z",
+      "createdAt": "2026-04-23T13:53:33.775Z",
+      "usageCount": 0,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_9oB4EclgoH",
+      "cookieJar": {
+        "version": "tough-cookie@6.0.1",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": [
+          {
+            "key": "anonymous_session_id",
+            "value": "mobjl66f7jr8h97e",
+            "expires": "2026-04-23T14:43:40.711Z",
+            "domain": "bayut.com",
+            "path": "/",
+            "secure": true,
+            "hostOnly": false,
+            "creation": "2026-04-23T13:53:40.703Z",
+            "lastAccessed": "2026-04-23T13:53:50.051Z"
+          },
+          {
+            "key": "device_id",
+            "value": "mobjl66f8v1t3k55",
+            "expires": "2027-04-23T13:53:34.888Z",
+            "domain": "bayut.com",
+            "path": "/",
+            "secure": true,
+            "hostOnly": false,
+            "creation": "2026-04-23T13:53:40.703Z",
+            "lastAccessed": "2026-04-23T13:53:50.051Z"
+          },
+          {
+            "key": "thumb_uid",
+            "value": "30a155ac393086d29826f341dc8917c9",
+            "expires": "2026-05-23T13:53:48.925Z",
+            "domain": "bayut.com",
+            "path": "/",
+            "secure": true,
+            "hostOnly": false,
+            "creation": "2026-04-23T13:53:40.703Z",
+            "lastAccessed": "2026-04-23T13:53:50.051Z"
+          },
+          {
+            "key": "_gcl_au",
+            "value": "1.1.1459960680.1776952419",
+            "expires": "2026-07-22T13:53:39.000Z",
+            "domain": "bayut.com",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2026-04-23T13:53:40.703Z",
+            "lastAccessed": "2026-04-23T13:53:50.051Z"
+          },
+          {
+            "key": "abTests",
+            "value": "TruBrokerStoriesCarouselTest%255Bv%255D%3Dfb%26TruBrokerStoriesCarouselTest%255Br%255D%3D1%26SellerLeadsForm%255Bv%255D%3Dshort%26SellerLeadsForm%255Br%255D%3D1%26BIScoreAdsIndexTest%255Bv%255D%3Doriginal%26BIScoreAdsIndexTest%255Br%255D%3D1%26WhatsAppProjectLeadIntentQuestionsTest%255Bv%255D%3Doriginal%26WhatsAppProjectLeadIntentQuestionsTest%255Br%255D%3D1%26NaturalLanguageSearchTest%255Bv%255D%3Doriginal%26NaturalLanguageSearchTest%255Br%255D%3D1%26NumberOfTransactionsDTTest%255Bv%255D%3Dtransactions10%26NumberOfTransactionsDTTest%255Br%255D%3D1",
+            "expires": "2026-05-23T13:53:48.925Z",
+            "domain": "bayut.com",
+            "path": "/",
+            "secure": true,
+            "hostOnly": false,
+            "creation": "2026-04-23T13:53:40.703Z",
+            "lastAccessed": "2026-04-23T13:53:50.052Z"
+          },
+          {
+            "key": "_ga",
+            "value": "GA1.1.376925459.1776952419",
+            "expires": "2027-05-28T13:53:47.467Z",
+            "domain": "bayut.com",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2026-04-23T13:53:40.703Z",
+            "lastAccessed": "2026-04-23T13:53:50.051Z"
+          },
+          {
+            "key": "_rdt_uuid",
+            "value": "1776952419157.2d666104-c202-47bf-b682-89b098400b3b",
+            "expires": "2026-07-22T13:53:46.000Z",
+            "domain": "bayut.com",
+            "path": "/",
+            "secure": true,
+            "hostOnly": false,
+            "creation": "2026-04-23T13:53:40.703Z",
+            "lastAccessed": "2026-04-23T13:53:50.052Z"
+          },
+          {
+            "key": "_ga_YTDB8TQ5Q9",
+            "value": "GS2.1.s1776952418$o1$g1$t1776952427$j51$l0$h0",
+            "expires": "2027-05-28T13:53:47.192Z",
+            "domain": "bayut.com",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2026-04-23T13:53:40.703Z",
+            "lastAccessed": "2026-04-23T13:53:50.052Z"
+          },
+          {
+            "key": "__rtbh.lid",
+            "value": "%7B%22eventType%22%3A%22lid%22%2C%22id%22%3A%22DhbuOm4uTsulTR1lmVL7%22%2C%22expiryDate%22%3A%222027-04-23T13%3A53%3A46.962Z%22%7D",
+            "expires": "2027-04-23T13:53:46.000Z",
+            "domain": "www.bayut.com",
+            "path": "/",
+            "secure": true,
+            "hostOnly": true,
+            "creation": "2026-04-23T13:53:40.703Z",
+            "lastAccessed": "2026-04-23T13:53:50.052Z"
+          },
+          {
+            "key": "_ga_JMZ5C490RT",
+            "value": "GS2.1.s1776952419$o1$g0$t1776952427$j52$l0$h0",
+            "expires": "2027-05-28T13:53:47.466Z",
+            "domain": "bayut.com",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2026-04-23T13:53:40.703Z",
+            "lastAccessed": "2026-04-23T13:53:50.052Z"
+          },
+          {
+            "key": "_uetsid",
+            "value": "d4f632603f1b11f1899c113e96cdcd2f",
+            "expires": "2026-04-24T13:53:47.000Z",
+            "domain": "bayut.com",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2026-04-23T13:53:40.703Z",
+            "lastAccessed": "2026-04-23T13:53:50.052Z"
+          },
+          {
+            "key": "_uetvid",
+            "value": "d4f652003f1b11f1b97e8bc19534f751",
+            "expires": "2027-05-18T13:53:47.000Z",
+            "domain": "bayut.com",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2026-04-23T13:53:40.703Z",
+            "lastAccessed": "2026-04-23T13:53:50.052Z"
+          },
+          {
+            "key": "_tt_enable_cookie",
+            "value": "1",
+            "expires": "2027-05-18T13:53:48.000Z",
+            "domain": "bayut.com",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2026-04-23T13:53:40.703Z",
+            "lastAccessed": "2026-04-23T13:53:50.051Z"
+          },
+          {
+            "key": "_ttp",
+            "value": "01KPX9W9B2DRCRCVD60SZZ6MNW_.tt.1",
+            "expires": "2027-05-18T13:53:48.000Z",
+            "domain": "bayut.com",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2026-04-23T13:53:40.703Z",
+            "lastAccessed": "2026-04-23T13:53:50.051Z"
+          },
+          {
+            "key": "FPID",
+            "value": "FPID2.2.W3S4JcNjqyi8EFUF7D%2Bk4iuGbSIL5AFTp5au%2BMlgXwc%3D.1776952419",
+            "expires": "2027-05-28T13:53:45.530Z",
+            "domain": "bayut.com",
+            "path": "/",
+            "secure": true,
+            "httpOnly": true,
+            "hostOnly": false,
+            "creation": "2026-04-23T13:53:40.703Z",
+            "lastAccessed": "2026-04-23T13:53:50.051Z"
+          },
+          {
+            "key": "FPLC",
+            "value": "fevfCLGYpNijj9boElhn2PmcCvmKStLWKGL4aZcqKNd%2BNMg26XF64i09m74shrb7nIjohKdayaYcOqDQq98bM%2Bh0M23FI1FR4RgQ%2FLFN6CgZ0%2FZerfPwp%2Fs6%2BvOlrA%3D%3D",
+            "expires": "2026-04-24T09:53:45.530Z",
+            "domain": "bayut.com",
+            "path": "/",
+            "secure": true,
+            "hostOnly": false,
+            "creation": "2026-04-23T13:53:40.703Z",
+            "lastAccessed": "2026-04-23T13:53:50.052Z"
+          },
+          {
+            "key": "_clck",
+            "value": "1i3wtew%5E2%5Eg5g%5E0%5E2304",
+            "expires": "2027-04-23T13:53:40.000Z",
+            "domain": "bayut.com",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2026-04-23T13:53:40.704Z",
+            "lastAccessed": "2026-04-23T13:53:50.051Z"
+          },
+          {
+            "key": "ttcsid",
+            "value": "1776952419690::137IjSPNhmLrQDlRDdep.1.1776952429754.0::1.3330.8915::0.0.0.0::0.0.0",
+            "expires": "2027-05-18T13:53:49.000Z",
+            "domain": "bayut.com",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2026-04-23T13:53:40.704Z",
+            "lastAccessed": "2026-04-23T13:53:50.052Z"
+          },
+          {
+            "key": "ttcsid_CFLOJG3C77U9H3ESD14G",
+            "value": "1776952419689::jPtDrMr4LHbW5rmm7NeX.1.1776952429759.1",
+            "expires": "2027-05-18T13:53:49.000Z",
+            "domain": "bayut.com",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2026-04-23T13:53:40.704Z",
+            "lastAccessed": "2026-04-23T13:53:50.052Z"
+          },
+          {
+            "key": "cto_bundle",
+            "value": "fWzor19YU2hqeHdXZHBLM3JVRWp3OVRxd01pU3R5ckpMdUpzb1RJaTRaWFNFMlVmSlQ0N1FxdDh6emRheHVCJTJGaG1Qdk1nb0t6R0JrSHpsVGlPMnVPZ1Jqa3IlMkJtZHVKanRtOUt3VjZPVXdPOFJwUG5FcUcxYzFWYXJCNEZDSFB4SmNwdTVFQWthN0NCJTJCZ0IxelpIYmc3YXBlMUElM0QlM0Q",
+            "expires": "2027-05-23T23:53:48.000Z",
+            "domain": "bayut.com",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2026-04-23T13:53:40.712Z",
+            "lastAccessed": "2026-04-23T13:53:50.052Z"
+          },
+          {
+            "key": "moe_uuid",
+            "value": "a536a37c-fab4-4abd-b706-e1c2db7b9438",
+            "expires": "2027-05-28T13:53:41.570Z",
+            "domain": "bayut.com",
+            "path": "/",
+            "secure": true,
+            "hostOnly": false,
+            "creation": "2026-04-23T13:53:50.051Z",
+            "lastAccessed": "2026-04-23T13:53:50.051Z"
+          },
+          {
+            "key": "_clsk",
+            "value": "1b7eqj7%5E1776952429934%5E2%5E0%5Ej.clarity.ms%2Fcollect",
+            "expires": "2026-04-24T13:53:49.000Z",
+            "domain": "bayut.com",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2026-04-23T13:53:50.052Z",
+            "lastAccessed": "2026-04-23T13:53:50.052Z"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2026-04-23T14:43:33.777Z",
+      "createdAt": "2026-04-23T13:53:33.777Z",
+      "usageCount": 4,
+      "maxUsageCount": 50,
+      "errorScore": 6
+    },
+    {
+      "id": "session_dLZ3l0qz0S",
+      "cookieJar": {
+        "version": "tough-cookie@6.0.1",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": []
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2026-04-23T14:43:35.928Z",
+      "createdAt": "2026-04-23T13:53:35.928Z",
+      "usageCount": 0,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_KwcI3mQA1q",
+      "cookieJar": {
+        "version": "tough-cookie@6.0.1",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": []
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2026-04-23T14:43:42.951Z",
+      "createdAt": "2026-04-23T13:53:42.951Z",
+      "usageCount": 0,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "requestsFinished": 4,
+  "requestsFailed": 6,
+  "requestsRetries": 6,
+  "requestsFailedPerMinute": 4,
+  "requestsFinishedPerMinute": 3,
+  "requestMinDurationMillis": 1495,
+  "requestMaxDurationMillis": 15248,
+  "requestTotalFailedDurationMillis": 129788,
+  "requestTotalFinishedDurationMillis": 29673,
+  "crawlerStartedAt": "2026-04-23T13:52:45.266Z",
+  "crawlerFinishedAt": "2026-04-23T13:54:05.215Z",
+  "statsPersistedAt": "2026-04-23T13:54:05.215Z",
+  "crawlerRuntimeMillis": 80280,
+  "crawlerLastStartTimestamp": 1776952364935,
+  "requestRetryHistogram": [
+    4,
+    6
+  ],
+  "statsId": 20,
+  "requestAvgFailedDurationMillis": 21631,
+  "requestAvgFinishedDurationMillis": 7418,
+  "requestTotalDurationMillis": 159461,
+  "requestsTotal": 10,
+  "requestsWithStatusCode": {
+    "200": 16
+  },
+  "errors": {
+    "ecmascript": {
+      "missing error code": {
+        "TimeoutError": {
+          "page.waitForLoadState: Timeout 15000ms exceeded.": {
+            "count": 6
+          }
+        }
+      }
+    }
+  },
+  "retryErrors": {
+    "ecmascript": {
+      "missing error code": {
+        "TimeoutError": {
+          "page.waitForLoadState: Timeout 15000ms exceeded.": {
+            "count": 6
+          }
+        }
+      }
+    }
+  }
+}

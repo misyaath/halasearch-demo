@@ -1,0 +1,70 @@
+version: '3.8'
+
+services:
+  # 1. The Brain: Local LLM with GPU Support
+  ollama:
+    image: ollama/ollama:latest
+    container_name: ollama
+    ports:
+      - "11434:11434"
+    volumes:
+      - ollama_storage:/root/.ollama
+    # This section passes your RTX 4070 into the container
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              count: 1
+              capabilities: [ gpu ]
+
+  # 2. The Tool: Local Search Engine
+  searxng:
+    image: searxng/searxng:latest
+    container_name: searxng
+    ports:
+      - "8081:8080"
+    volumes:
+      - ./searxng:/etc/searxng
+    environment:
+      - BASE_URL=http://localhost:8081/
+
+  # 3. The Monolith: Next.js Full Stack App
+  next_app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: nextjs_agent
+    depends_on:
+      - ollama
+      - searxng
+    ports:
+      - "3001:3000"
+    env_file:
+      - .env
+    environment:
+      # Use the Docker service names instead of localhost!
+      - OLLAMA_BASE_URL=http://ollama:11434
+      - SEARXNG_BASE_URL=http://searxng:8080
+    volumes:
+      # Syncs your local code into the container for live-reloading
+      - .:/app
+      - /app/node_modules
+      - /app/.next
+
+  postgres:
+    image: postgres:15-alpine
+    container_name: halasearch_db
+    restart: always
+    environment:
+      - POSTGRES_USER=${POSTGRES_USER}
+      - POSTGRES_PASSWORD=${POSTGRES_PASSWORD}
+      - POSTGRES_DB=${POSTGRES_DB}
+    ports:
+      - "5433:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+
+volumes:
+  ollama_storage:
+  pgdata:
